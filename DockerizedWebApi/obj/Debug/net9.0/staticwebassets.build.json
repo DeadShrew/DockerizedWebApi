@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6n4mSHWKITELdBnDC41bSORZNEuO8Muhnmz2mJWw+c8=",
+  "Source": "DockerizedWebApi",
+  "BasePath": "_content/DockerizedWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
