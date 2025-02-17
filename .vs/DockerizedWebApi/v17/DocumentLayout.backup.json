@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|c:\\users\\ym3438\\source\\repos\\dockerizedwebapi\\dockerizedwebapi\\dockerizedwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|solutionrelative:dockerizedwebapi\\dockerizedwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DockerizedWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.csproj",
+              "RelativeDocumentMoniker": "DockerizedWebApi\\DockerizedWebApi.csproj",
+              "ToolTip": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.csproj",
+              "RelativeToolTip": "DockerizedWebApi\\DockerizedWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T05:03:27.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

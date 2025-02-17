@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|c:\\users\\ym3438\\source\\repos\\dockerizedwebapi\\dockerizedwebapi\\dockerizedwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|solutionrelative:dockerizedwebapi\\dockerizedwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|c:\\users\\ym3438\\source\\repos\\dockerizedwebapi\\dockerizedwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|solutionrelative:dockerizedwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|c:\\users\\ym3438\\source\\repos\\dockerizedwebapi\\dockerizedwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|solutionrelative:dockerizedwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|c:\\users\\ym3438\\source\\repos\\dockerizedwebapi\\dockerizedwebapi\\dockerizedwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB907DA5-62AE-4461-B9A4-427AD2A3D22A}|DockerizedWebApi\\DockerizedWebApi.csproj|solutionrelative:dockerizedwebapi\\dockerizedwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DockerizedWebApi.http",
-              "DocumentMoniker": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.http",
-              "RelativeDocumentMoniker": "DockerizedWebApi\\DockerizedWebApi.http",
-              "ToolTip": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.http",
-              "RelativeToolTip": "DockerizedWebApi\\DockerizedWebApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-16T21:55:36.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "DockerizedWebApi\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\WeatherForecast.cs",
-              "RelativeToolTip": "DockerizedWebApi\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T21:55:33.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "DockerizedWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\Program.cs",
-              "RelativeToolTip": "DockerizedWebApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T21:55:28.79Z",
+              "Title": "DockerizedWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.csproj",
+              "RelativeDocumentMoniker": "DockerizedWebApi\\DockerizedWebApi.csproj",
+              "ToolTip": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.csproj",
+              "RelativeToolTip": "DockerizedWebApi\\DockerizedWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T05:03:27.864Z",
               "EditorCaption": ""
             }
           ]

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ae544b61-0694-4374-a102-860d48c4dc09")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerizedWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+197a1a2372c091aba120c2e275ddf3af513b905b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerizedWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerizedWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

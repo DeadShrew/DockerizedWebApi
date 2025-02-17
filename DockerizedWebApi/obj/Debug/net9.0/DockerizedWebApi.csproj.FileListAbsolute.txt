@@ -15,6 +15,7 @@ C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\
 C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\DockerizedWebApi.csproj.CoreCompileInputs.cache
 C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\DockerizedWebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\DockerizedWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\DockerizedWebApi.sourcelink.json
 C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\scopedcss\bundle\DockerizedWebApi.styles.css
 C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\ym3438\source\repos\DockerizedWebApi\DockerizedWebApi\obj\Debug\net9.0\staticwebassets.development.json

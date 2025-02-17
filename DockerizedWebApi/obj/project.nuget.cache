@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K1etx1eGWqE=",
+  "dgSpecHash": "wrZH2BbeLcU=",
   "success": true,
   "projectFilePath": "C:\\Users\\ym3438\\source\\repos\\DockerizedWebApi\\DockerizedWebApi\\DockerizedWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ym3438\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "C:\\Users\\ym3438\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\ym3438\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\ym3438\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
   "logs": []
 }
